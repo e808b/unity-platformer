@@ -1,4 +1,4 @@
-<!-- https://github.com/e808b/platformer-unity -->
+<!-- https://github.com/e808b/unity-platformer -->
 
 ## About
 
